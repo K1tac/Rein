@@ -15,7 +15,7 @@ Type `help` inside Rein for a list of available commands.
 Clone the repository and run the main Python file:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/K1tac/Rein/Rein.git
 cd Rein
 python Rein.py
 ```
